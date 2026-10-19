@@ -1,4 +1,4 @@
-package org.formation.inventory.internal;
+package org.formation.shop.inventory.internal;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

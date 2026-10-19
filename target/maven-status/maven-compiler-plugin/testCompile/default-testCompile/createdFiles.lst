@@ -1,0 +1,4 @@
+org/formation/shop/shop/ModularityTests.class
+org/formation/shop/catalog/CatalogIntegrationTests.class
+org/formation/shop/InventoryModuleTests.class
+org/formation/shop/ShopApplicationTests.class

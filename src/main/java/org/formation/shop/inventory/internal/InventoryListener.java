@@ -1,6 +1,6 @@
-package org.formation.inventory.internal;
+package org.formation.shop.inventory.internal;
 
-import org.formation.catalog.CoffeeCreated;
+import org.formation.shop.catalog.CoffeeCreated;
 import org.springframework.modulith.events.ApplicationModuleListener;
 import org.springframework.stereotype.Component;
 

@@ -1,2 +1,4 @@
-/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/test/java/org/formation/ShopApplicationTests.java
-/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/test/java/org/formation/catalog/CatalogIntegrationTests.java
+/home/epita/Documents/demo-modulith-sb4-/src/test/java/org/formation/shop/InventoryModuleTests.java
+/home/epita/Documents/demo-modulith-sb4-/src/test/java/org/formation/shop/ShopApplicationTests.java
+/home/epita/Documents/demo-modulith-sb4-/src/test/java/org/formation/shop/catalog/CatalogIntegrationTests.java
+/home/epita/Documents/demo-modulith-sb4-/src/test/java/org/formation/shop/shop/ModularityTests.java

@@ -1,9 +1,0 @@
-org/formation/inventory/internal/StockEntity.class
-org/formation/inventory/internal/StockRepository.class
-org/formation/inventory/internal/InventoryListener.class
-org/formation/catalog/CatalogController.class
-org/formation/catalog/internal/CoffeeEntity.class
-org/formation/catalog/internal/CoffeeRepository.class
-org/formation/catalog/CoffeeCreated.class
-org/formation/ShopApplication.class
-org/formation/catalog/Catalog.class
