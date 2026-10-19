@@ -1,0 +1,9 @@
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/ShopApplication.java
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/catalog/Catalog.java
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/catalog/CatalogController.java
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/catalog/CoffeeCreated.java
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/catalog/internal/CoffeeEntity.java
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/catalog/internal/CoffeeRepository.java
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/inventory/internal/InventoryListener.java
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/inventory/internal/StockEntity.java
+/home/epita/Documents/didactic-octo-fishstick/demo-modulith-sb4/src/main/java/org/formation/inventory/internal/StockRepository.java
